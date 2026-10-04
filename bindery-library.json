@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-31T14:18:01.765Z",
+  "exportedAt": "2026-10-04T20:51:01.454Z",
   "books": [
     {
       "title": "100 Tricks to Appear Smart in Meetings",
@@ -898,6 +898,66 @@
       "read": false,
       "addedAt": "2026-08-31T13:39:58.153Z",
       "id": "mthacevdzebq81n0n7"
+    },
+    {
+      "title": "Dark Warrior Rising",
+      "author": "Ed Greenwood",
+      "isbn": "9780765317650",
+      "publisher": "Tor Books",
+      "year": "2007",
+      "pages": "304",
+      "genre": "English Canadian Novel And Short Story, Elves, Fiction",
+      "language": "",
+      "series": "",
+      "seriesNum": "",
+      "description": "",
+      "cover": "https://covers.openlibrary.org/b/id/1443158-L.jpg",
+      "dateStart": "",
+      "dateEnd": "",
+      "status": "unread",
+      "read": false,
+      "addedAt": "2026-10-04T20:49:00.275Z",
+      "id": "muuan4ab1ubeib768n7"
+    },
+    {
+      "title": "The Vacant Throne",
+      "author": "Ed Greenwood",
+      "isbn": "0312867220",
+      "publisher": "Tor",
+      "year": "2001",
+      "pages": "332",
+      "genre": "Fiction, fantasy, general",
+      "language": "",
+      "series": "Band of four",
+      "seriesNum": "2",
+      "description": "",
+      "cover": "https://covers.openlibrary.org/b/id/182979-L.jpg",
+      "dateStart": "",
+      "dateEnd": "",
+      "status": "unread",
+      "read": false,
+      "addedAt": "2026-10-04T20:49:59.325Z",
+      "id": "muuaodul469rjlbtcd8"
+    },
+    {
+      "title": "The Kingless Land",
+      "author": "Ed Greenwood",
+      "isbn": "0312867212",
+      "publisher": "Tor Fantasy",
+      "year": "2000",
+      "pages": "304",
+      "genre": "Fiction, general",
+      "language": "",
+      "series": "Band of four",
+      "seriesNum": "1",
+      "description": "",
+      "cover": "https://covers.openlibrary.org/b/id/182978-L.jpg",
+      "dateStart": "",
+      "dateEnd": "",
+      "status": "unread",
+      "read": false,
+      "addedAt": "2026-10-04T20:50:32.533Z",
+      "id": "muuap3h1x7dnti5nos"
     }
   ]
 }
